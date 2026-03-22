@@ -1,9 +1,11 @@
 
+<!--
 CONFIG
 FULL_NAME: Juan David Arboleda Perdomo
 GITHUB_USER: juanArvol
 EMAIL: arboledaperdomo@gmail.com
 CODE_ORGANIZATION: code-sena
+-->
 
 <!--
 **juanArvol/juanArvol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
