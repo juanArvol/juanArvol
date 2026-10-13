@@ -1,8 +1,8 @@
 <!--
 CONFIG
-FULL_NAME: Jonattan Steven Rizo Solano
-GITHUB_USER: jonthanrizoth08
-EMAIL: jonthanrizoth08@gmail.com
+FULL_NAME: Juan David Arboleda Perdomo
+GITHUB_USER: juanArvol
+EMAIL: arboledaperdomo@gmail.com
 CODE_ORGANIZATION: code-sena
 -->
 
